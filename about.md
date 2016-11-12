@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Boorstat — simple about useless.\\
+Boorstat — simply about useless.\\
 With images and code.
