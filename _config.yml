@@ -16,7 +16,7 @@
 title: Boorstat
 email: boorstat@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Boorstat - simply about useless.
+  Boorstat — simply about useless.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://boorstat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
