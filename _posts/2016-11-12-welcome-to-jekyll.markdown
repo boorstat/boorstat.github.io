@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dostoyevsky Idiot - python object"
+title:  "Dostoyevsky Idiot — python object"
 date:   2016-11-12 03:32:43 +0300
 categories: dostoyevsky idiot
 ---
