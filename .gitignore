@@ -4,3 +4,4 @@ _site
 .idea
 temp
 .ipynb_checkpoints
+.DS_Store
