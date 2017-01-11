@@ -5,7 +5,7 @@ date:   2017-01-08
 categories: dostoyevsky idiot
 ---
 We're going to jsonify and objectify great creation of Fyodor Dostoyevsky -- The Idiot.<br/>
-We'll get well structured data ready for futher experiments.<br/>
+We'll get well structured data ready for further experiments.<br/>
 ![Image](https://github.com/boorstat/boorstat.github.io/raw/master/images/dostoyevsky-idiot-object.jpg)
 
 We have <a href="https://github.com/boorstat/boorstat-files/raw/master/lit/dostoevsky/The_Idiot.txt">"The Idiot" text</a>.<br/>
