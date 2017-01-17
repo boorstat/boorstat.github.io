@@ -25,7 +25,8 @@ github_username:  boorstat
 facebook_username: boorstat
 
 google_analytics: UA-90000862-1
-
+disqus:
+  shortname: https-boorstat-github-io
 
 # Build settings
 markdown: kramdown
