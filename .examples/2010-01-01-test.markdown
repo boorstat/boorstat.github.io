@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test Post"
+date:   2010-01-01
+categories: test post
+---
+Just test
+
+<b>some b text</b>
+
+<script>//window.alert('test alert')
