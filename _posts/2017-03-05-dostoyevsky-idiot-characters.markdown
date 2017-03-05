@@ -8,7 +8,7 @@ categories: dostoyevsky idiot
 
 In <a href="/dostoyevsky/idiot/2017/01/08/dostoyevsky-idiot-python-object.html">previous post</a> we've generated <a href="https://github.com/boorstat/boorstat-files/raw/master/lit/dostoevsky/idiot.json">json</a> based on <a href="https://github.com/boorstat/boorstat-files/raw/master/lit/dostoevsky/The_Idiot.txt">Idiot text</a>.
 
-In this post we're going to use this data and visualise characters per chapter activity rate.<br/>
+In this post we're going to use this data and visualise characters activity rate along the chapters.<br/>
 First of all we need dict of lists how characters can be called or named in text:
 
 
