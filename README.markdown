@@ -23,7 +23,8 @@ Jupyter Options<br />
 http://jupyter-notebook.readthedocs.io/en/latest/config.html
 
 jekyll github<br />
-https://github.com/jekyll/jekyll
+* https://github.com/jekyll/jekyll
+* https://github.com/jekyll/minima – currently used theme
 
 markdown syntax<br />
 https://daringfireball.net/projects/markdown/syntax
