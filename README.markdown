@@ -3,14 +3,20 @@ This repository fits to site https://boorstat.github.io<br />
 It'g blog build on jekyll platform.
 
 ## dev env commands
+
+### jekyll
 Run local jekyll for preview and debug:<br />
 `bunde exec jekyll serve`
 
+### jupyter
 Run jupyter notebook server as platform to edit posts:<br />
 `jupyter notebook ~/dev/boorstat.github.io/.pynb`
 
 Convert notebook to markdown post:<br />
 `jupyter nbconvert post.ipynb --to markdown`
+
+Create config if not yet:</br>
+`jupyter notebook --generate-config`<br />
 
 ## links
 Jupyter Options<br />
