@@ -16,3 +16,6 @@ http://jupyter-notebook.readthedocs.io/en/latest/config.html
 
 jekyll github<br />
 https://github.com/jekyll/jekyll
+
+markdown syntax<br />
+https://daringfireball.net/projects/markdown/syntax
