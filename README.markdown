@@ -33,5 +33,5 @@ Good man blog based on the same engine<br />
 http://briancaffey.github.io/contact
 
 ### plot libs
-https://plot.ly
-http://bokeh.pydata.org
+* https://plot.ly
+* http://bokeh.pydata.org
