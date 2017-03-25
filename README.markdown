@@ -27,3 +27,11 @@ https://github.com/jekyll/jekyll
 
 markdown syntax<br />
 https://daringfireball.net/projects/markdown/syntax
+
+### similar blogs
+Good man blog based on the same engine<br />
+http://briancaffey.github.io/contact
+
+### plot libs
+https://plot.ly
+http://bokeh.pydata.org
