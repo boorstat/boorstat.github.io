@@ -108,7 +108,7 @@ Getting csv as pandas dataframe:
 df = pd.DataFrame.from_csv(StringIO(requests.get(RUS_WITERS_CSV).text), index_col=None, sep=';')
 ```
 
-If you have dataframe – you have a graph :)
+If you have data frame – you have a graph :)
 
 At first – prettier looking multi-color Gantt style graph.<br/>
 Which is much easier to code in addition.
@@ -216,8 +216,8 @@ py.iplot(fig, filename='russian-writers-years-of-life-len-sorted', world_readabl
 
 
 
-You can see the "EDIT CHART" button at the bottom rigth on graphs.<br/>
-It's interesting button – thanks to <a href="https://plot.ly">Plotly</a> very nuch.<br/>
+You can see the "EDIT CHART" button at the bottom on graphs.<br/>
+It's interesting button – thanks to <a href="https://plot.ly">Plotly</a> very much.<br/>
 Click it and Online Graph Maker opens.<br/>
 
 But seems like it's not possible to get filterable by writers data grid in that Online Maker with current <a href="https://github.com/plotly/plotly.py/blob/v2.0.0/plotly/figure_factory/_gantt.py#L582">create_gantt()</a> implementation.<br/>
