@@ -1,4 +1,6 @@
 # [boorstat blog](https://boorstat.github.io)
+This repository fits to site https://boorstat.github.io<br />
+It'g blog build on jekyll platform.
 
 ## dev env commands
 Run local jekyll for preview and debug:<br />
