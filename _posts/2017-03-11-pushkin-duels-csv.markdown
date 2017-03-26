@@ -5,6 +5,7 @@ date:   2017-03-11
 categories: pushkin duels
 ---
 
+![Pushkin Duels CSV](https://boorstat.github.io/images/lit/pushkin/duels-csv.png)
 
 There are more than 25 known Pushkin's duels.<br/>
 Let's make CSV containing these duels details.<br/>

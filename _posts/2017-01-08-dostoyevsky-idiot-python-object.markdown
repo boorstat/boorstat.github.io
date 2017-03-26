@@ -5,8 +5,9 @@ date:   2017-01-08
 categories: dostoyevsky idiot
 ---
 We're going to jsonify and objectify great creation of Fyodor Dostoyevsky -- The Idiot.<br/>
-We'll get well structured data ready for further experiments.<br/>
-![Image](https://boorstat.github.io/images/dostoyevsky-idiot-object.jpg)
+We'll get well structured data ready for further experiments.
+
+![Dostoyevsky Idiot JSON](https://boorstat.github.io/images/dostoyevsky-idiot-object.jpg)
 
 We have <a href="https://github.com/boorstat/boorstat-files/raw/master/lit/dostoevsky/The_Idiot.txt">"The Idiot" text</a>.<br/>
 That's top level function to objectify this text:
@@ -47,4 +48,5 @@ idiot_as_dict_from_pregenerated_json = idiot.from_json()
 
 Final structure can be understood from <a href="https://github.com/boorstat/boorstat-files/raw/master/lit/dostoevsky/idiot.json">pregenerated json</a>.<br/>
 Also this screenshot from debugger can clarify hierarchy inside "The Idiot" object:
-![Image](https://boorstat.github.io/images/dostoyevsky-idiot-object-structure.png)
+
+![Dostoyevsky Idiot Python object structure](https://boorstat.github.io/images/dostoyevsky-idiot-object-structure.png)
