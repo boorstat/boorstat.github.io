@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pushkin's Duels CSV"
+title:  "Pushkin's Duels CSV and graph"
 date:   2017-03-11
 categories: pushkin duels
 ---

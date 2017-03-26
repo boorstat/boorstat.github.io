@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Russian Writers CSV"
+title:  "Russian Writers CSV and some graphs"
 date:   2017-03-25
 categories: lit russian
 ---
