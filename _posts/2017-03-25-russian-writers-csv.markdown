@@ -5,6 +5,8 @@ date:   2017-03-25
 categories: lit russian
 ---
 
+![Russian Writers Graph](/images/lit/russian/writers-life.png)
+
 It was always interesting for me how different russian writers relate to each other.<br/>
 For example, could Dostoyevky meet Gogol at all or not?<br/>
 We are going to create csv with brief info like years of life for all russian writers.<br/>
