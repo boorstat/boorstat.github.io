@@ -169,6 +169,6 @@ plot(traces)
 
 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~boorstat/10.embed" height="525px" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~boorstat/10.embed" height="525px" width="800px"></iframe>
 
 Click on character in legend — and you'll see where it is on graph.
