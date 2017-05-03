@@ -10,7 +10,7 @@ Run local jekyll for preview and debug:<br />
 
 ### jupyter
 Run jupyter notebook server as platform to edit posts:<br />
-`jupyter notebook ~/dev/boorstat.github.io/.pynb`
+`jupyter notebook ~/dev/boorstat.github.io/.ipynb`
 
 Convert notebook to markdown post:<br />
 `jupyter nbconvert post.ipynb --to markdown`
